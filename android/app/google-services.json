@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "178233098938",
+    "project_id": "mobile-projects-21f76",
+    "storage_bucket": "mobile-projects-21f76.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:178233098938:android:ea821d05c0be0e0e90b883",
+        "android_client_info": {
+          "package_name": "com.lughut.FetchingWheels"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "178233098938-jlkqqa93qq4c5ssi1n6jav6trh9ee607.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTYpJEdUyRYGG41G1_IkdOaNcu1sMyddA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "178233098938-jlkqqa93qq4c5ssi1n6jav6trh9ee607.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:178233098938:android:1e20745d9fcbccaa90b883",
+        "android_client_info": {
+          "package_name": "com.lughut.fetchingwheels"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "178233098938-jlkqqa93qq4c5ssi1n6jav6trh9ee607.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTYpJEdUyRYGG41G1_IkdOaNcu1sMyddA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "178233098938-jlkqqa93qq4c5ssi1n6jav6trh9ee607.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
